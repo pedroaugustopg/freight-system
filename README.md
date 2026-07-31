@@ -42,8 +42,8 @@ FreightSystem/
 │   ├── __main__.py
 │   └── transports.py
 │
-├── README.md
-└── .gitignore
+├── .gitignore
+└── README.md
 ```
 
 ## Regras de Negócio
